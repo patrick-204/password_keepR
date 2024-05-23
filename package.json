@@ -1,0 +1,21 @@
+{
+  "name": "password_keepR",
+  "version": "1.0.0",
+  "description": "Lighthouse BnB is an app that will revolutionize the travel industry. It will allow homeowners to rent out their homes to people on vacation, creating an alternative to hotels and bed and breakfasts!",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon express-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "node": "^18.20.3",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
