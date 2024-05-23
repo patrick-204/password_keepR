@@ -1,4 +1,5 @@
 
+-- Drop statements just here for pre-production phase
 DROP TABLE IF EXISTS users CASCADE;
 DROP TABLE IF EXISTS organizations CASCADE;
 DROP TABLE IF EXISTS accounts CASCADE;
